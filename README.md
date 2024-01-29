@@ -1,4 +1,13 @@
-# tarea15-GR4
+# ESCUELA POLITÉCNICA NACIONAL
+# CONSUTRCCIÓN Y EVOLUCIÓN DE SOFTWARE
+
+## Tarea 15 - Grupo 4
+
+- Averos David
+- Camapaña Gary
+- Torres David
+
+# 
 ## Tarea en Clase - Grupo 4
 
 - Aplicar el paradigma OO para crear un
