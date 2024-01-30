@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c58b273a-2ebf-44df-8809-8f11972c2965" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/src/Model/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Model/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/src/Test/testEquilateralTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Test/testEquilateralTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/src/Test/testIsocelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Test/testIsocelesTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tarea15-GR4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
       <workItem from="1706559696752" duration="65000" />
       <workItem from="1706559799902" duration="807000" />
       <workItem from="1706560832040" duration="26000" />
-      <workItem from="1706581074923" duration="6095000" />
+      <workItem from="1706581074923" duration="6162000" />
     </task>
     <servers />
   </component>
